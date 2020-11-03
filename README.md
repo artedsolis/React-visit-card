@@ -17,6 +17,5 @@ Project is created with:
 	
 ## Setup
 To run this project, just click on the link below:
-
 https://presentation-card.herokuapp.com/
 
